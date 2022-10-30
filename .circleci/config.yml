@@ -6,7 +6,7 @@ orbs:
 jobs:
   hello-job:
     executor:
-       name: wind/default
+       name: win/default
        size: "medium"
     steps:
         - checkout
